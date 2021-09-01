@@ -1,0 +1,17 @@
+h1{
+    color: darkcyan;
+    font-size: 40px;
+}
+.body_background{
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+    z-index: 1;
+}
+#olympiccanvas{
+    border-width: 15px;
+    border-color: red;
+    border-style: double;
+    background-color: white;
+    z-index: 9;
+}
